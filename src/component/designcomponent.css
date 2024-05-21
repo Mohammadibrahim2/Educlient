@@ -1,0 +1,11 @@
+.commonHeaderDesign{
+    
+
+    
+    background-position: rigth;
+    background-size:cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-image:linear-gradient(rgba(8, 20, 59, 0.9),rgba(16, 2, 43, 0.9)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWywPj5FL7VVyURc-brKeiHLmNvsPdg5YgTQ&usqp=CAU")
+
+}

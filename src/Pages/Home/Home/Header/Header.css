@@ -1,0 +1,18 @@
+.header{
+    background-image: linear-gradient(rgba(186, 214, 250, 0.274),rgba(0, 0, 0, 0.2)),url("https://thepixelcurve.com/wp/edubin/wp-content/uploads/2021/11/RR931.png");
+   background-repeat: no-repeat;
+   background-position: left bottom;
+   background-size:100% 100%;
+  
+
+
+}
+.front{
+    z-index: 900;
+}
+.back{
+    z-index: 10;
+}
+.middle{
+    z-index: 999;
+}
